@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  vkaci:
+  - apiVersion: v2
+    appVersion: 1.0rc2
+    created: "2022-06-06T14:17:38.6878173+10:00"
+    description: A Helm chart for VKACI
+    digest: 85ba6c57d2327a031f7765956c1408e6a72b217a9965584842ba0c6f0674a52f
+    maintainers:
+    - email: vkaci-tool@cisco.com
+      name: samitab, camrossi
+    name: vkaci
+    type: application
+    urls:
+    - https://samiib.github.io/vkaci-chart/vkaci-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-06-06T14:17:38.6858164+10:00"
